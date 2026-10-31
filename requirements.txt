@@ -1,4 +1,11 @@
-fastapi>=0.110,<1
-pandas>=2.2,<4
-scikit-learn>=1.4,<2
-uvicorn>=0.29,<1
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+joblib
+sentence-transformers
+google-genai
+python-dotenv
+matplotlib
+seaborn

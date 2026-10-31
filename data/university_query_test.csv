@@ -1,0 +1,1001 @@
+Query_ID,Student_Query,Department,Days_To_Deadline,Priority_Label
+5001,"Please help me apply for a scholarship, the last date is tomorrow",Scholarship,0,High
+5002,"I want to issue a book from the library, the last date is in 5 days",Library,3,Medium
+5003,"Kindly tell me how to get my course syllabus, I have 6 days left",Courses,5,Medium
+5004,"Kindly tell me how to fix my exam form error, just asking for information",Examination,18,Low
+5005,"Please help me change my elective subject, the last date is in 5 days",Courses,7,Medium
+5006,"Need help to fix my exam form error, my deadline is this week",Examination,6,Medium
+5007,"Need help to pay my semester fees, my exam is in 2 days",Fees,2,High
+5008,"I want to get my hall ticket, it is very urgent",Examination,1,High
+5009,"I want to get my college email ID, it is very urgent",IT Support,0,High
+5010,"Need help to get a bonafide certificate, just asking for information",Admissions,44,Low
+5011,"I want to access e-journals, the last date is in 20 days",Library,20,Low
+5012,"I want to get my course syllabus, my deadline is this week",Courses,3,Medium
+5013,"Need help to get my course syllabus, my exam is tomorrow",Courses,0,High
+5014,"Need help to renew my library book, it is very urgent",Library,0,High
+5015,"How can I fix a failed fee payment, just asking for information",Fees,37,Low
+5016,"Please help me log in to the student portal, I have plenty of time",IT Support,26,Low
+5017,"I want to issue a book from the library, my exam is tomorrow",Library,2,High
+5018,"Kindly tell me how to apply for a scholarship, I have plenty of time",Scholarship,40,Low
+5019,"Need help to fix a failed fee payment, the last date is in 20 days",Fees,16,Low
+5020,"Kindly tell me how to issue a book from the library, my exam is in 2 days",Library,0,High
+5021,"Need help to issue a book from the library, I have plenty of time",Library,36,Low
+5022,"How can I get my ID card, my deadline is this week",Admissions,4,Medium
+5023,"How can I change my elective subject, my exam is in 2 days",Courses,2,High
+5024,"Need help to apply for a hostel room, the last date is in 5 days",Hostel,5,Medium
+5025,"Need help to know the fee due date, I have plenty of time",Fees,35,Low
+5026,"I want to submit my admission documents, the deadline is next month",Admissions,28,Low
+5027,"Kindly tell me how to reset my portal password, the last date is in 5 days",IT Support,3,Medium
+5028,"Please help me get my college email ID, the deadline is next month",IT Support,42,Low
+5029,"How can I know the fee due date, my exam is tomorrow",Fees,2,High
+5030,"Please help me renew my library book, my deadline is this week",Library,4,Medium
+5031,"How can I submit my admission documents, I have plenty of time",Admissions,41,Low
+5032,"Please help me access e-journals, the deadline is next month",Library,17,Low
+5033,"Need help to get my course syllabus, my exam is tomorrow",Courses,2,High
+5034,"Need help to pay my semester fees, just asking for information",Fees,15,Low
+5035,"Kindly tell me how to issue a book from the library, the deadline is in 4 days",Library,7,Medium
+5036,"I want to get my course syllabus, my exam is tomorrow",Courses,0,High
+5037,"How can I get my ID card, my exam is in 2 days",Admissions,0,High
+5038,"How can I check my scholarship status, no rush",Scholarship,37,Low
+5039,"How can I report a hostel room problem, the last date is in 20 days",Hostel,29,Low
+5040,"Need help to upload my assignment on LMS, just asking for information",IT Support,14,Low
+5041,"Kindly tell me how to apply for a hostel room, the last date is in 5 days",Hostel,4,Medium
+5042,"I want to fix a failed fee payment, my exam is tomorrow",Fees,1,High
+5043,"How can I fix my exam form error, the deadline is in 4 days",Examination,7,Medium
+5044,"I want to issue a book from the library, the last date is tomorrow",Library,2,High
+5045,"How can I get my fee receipt, it is very urgent",Fees,0,High
+5046,"Need help to get a bonafide certificate, just asking for information",Admissions,20,Low
+5047,"Need help to apply for a hostel room, I have 6 days left",Hostel,3,Medium
+5048,"I want to apply for a scholarship, the last date is in 20 days",Scholarship,20,Low
+5049,"I want to download my admit card, the deadline is today",Examination,1,High
+5050,"Need help to get a bonafide certificate, the deadline is in 4 days",Admissions,4,Medium
+5051,"I want to know the fee due date, my exam is in 2 days",Fees,0,High
+5052,"Kindly tell me how to get my hall ticket, the last date is in 5 days",Examination,5,Medium
+5053,"I want to change my elective subject, no rush",Courses,35,Low
+5054,"I want to get my fee receipt, the last date is tomorrow",Fees,1,High
+5055,"Kindly tell me how to get a bonafide certificate, the last date is tomorrow",Admissions,1,High
+5056,"How can I check my scholarship status, the last date is in 5 days",Scholarship,6,Medium
+5057,"I want to renew my library book, no rush",Library,22,Low
+5058,"I want to get my ID card, the last date is tomorrow",Admissions,1,High
+5059,"I want to reset my portal password, it is very urgent",IT Support,2,High
+5060,"Please help me change my elective subject, the deadline is today",Courses,1,High
+5061,"How can I log in to the student portal, the deadline is in 4 days",IT Support,7,Medium
+5062,"How can I see the exam date sheet, the deadline is in 4 days",Examination,6,Medium
+5063,"Need help to get my fee receipt, the deadline is next month",Fees,39,Low
+5064,"Kindly tell me how to reset my portal password, it is very urgent",IT Support,2,High
+5065,"Need help to change my elective subject, the last date is tomorrow",Courses,2,High
+5066,"Kindly tell me how to get my hall ticket, the last date is in 20 days",Examination,39,Low
+5067,"Kindly tell me how to submit my admission documents, the deadline is in 4 days",Admissions,7,Medium
+5068,"Need help to get my college email ID, the deadline is in 4 days",IT Support,4,Medium
+5069,"Need help to issue a book from the library, no rush",Library,8,Low
+5070,"I want to renew my library book, I have 6 days left",Library,7,Medium
+5071,"I want to get my ID card, the deadline is next month",Admissions,24,Low
+5072,"Need help to reset my portal password, my deadline is this week",IT Support,7,Medium
+5073,"I want to know the fee due date, my deadline is this week",Fees,5,Medium
+5074,"How can I get my course syllabus, my exam is in 2 days",Courses,2,High
+5075,"Kindly tell me how to apply for a hostel room, I have plenty of time",Hostel,40,Low
+5076,"Need help to get a bonafide certificate, no rush",Admissions,44,Low
+5077,"Need help to check my scholarship status, my deadline is this week",Scholarship,6,Medium
+5078,"Need help to get my ID card, just asking for information",Admissions,12,Low
+5079,"Please help me apply for a hostel room, just asking for information",Hostel,10,Low
+5080,"Need help to apply for re-evaluation, just asking for information",Examination,14,Low
+5081,"How can I apply for a scholarship, the deadline is next month",Scholarship,20,Low
+5082,"Kindly tell me how to apply for re-evaluation, just asking for information",Examination,21,Low
+5083,"I want to get my fee receipt, it is very urgent",Fees,2,High
+5084,"Kindly tell me how to apply for a hostel room, it is very urgent",Hostel,1,High
+5085,"Please help me submit my admission documents, my deadline is this week",Admissions,3,Medium
+5086,"Please help me log in to the student portal, the deadline is next month",IT Support,33,Low
+5087,"I want to know the fee due date, the last date is in 5 days",Fees,5,Medium
+5088,"Please help me change my elective subject, I have plenty of time",Courses,11,Low
+5089,"I want to get my fee receipt, the last date is in 5 days",Fees,6,Medium
+5090,"I want to check my scholarship status, the deadline is next month",Scholarship,23,Low
+5091,"How can I get my ID card, my deadline is this week",Admissions,3,Medium
+5092,"Please help me apply for re-evaluation, the last date is in 5 days",Examination,5,Medium
+5093,"Need help to check my scholarship status, I have 6 days left",Scholarship,7,Medium
+5094,"Kindly tell me how to apply for a scholarship, it is very urgent",Scholarship,0,High
+5095,"Need help to access e-journals, the deadline is today",Library,2,High
+5096,"How can I apply for re-evaluation, my exam is in 2 days",Examination,1,High
+5097,"How can I get my fee receipt, the deadline is today",Fees,2,High
+5098,"Please help me get my ID card, I have 6 days left",Admissions,6,Medium
+5099,"Kindly tell me how to check my exam result, I have 6 days left",Examination,5,Medium
+5100,"Need help to submit my admission documents, I have 6 days left",Admissions,4,Medium
+5101,"Please help me apply for re-evaluation, I have 6 days left",Examination,7,Medium
+5102,"Kindly tell me how to access e-journals, my deadline is this week",Library,6,Medium
+5103,"Kindly tell me how to check my exam result, the last date is in 5 days",Examination,3,Medium
+5104,"Need help to get my fee receipt, I have plenty of time",Fees,32,Low
+5105,"Kindly tell me how to get my hall ticket, my exam is tomorrow",Examination,0,High
+5106,"How can I get my course syllabus, just asking for information",Courses,9,Low
+5107,"How can I change my elective subject, no rush",Courses,37,Low
+5108,"Please help me get a bonafide certificate, my exam is tomorrow",Admissions,0,High
+5109,"Need help to renew my library book, just asking for information",Library,10,Low
+5110,"Kindly tell me how to change my elective subject, the last date is in 5 days",Courses,4,Medium
+5111,"How can I access e-journals, the last date is in 20 days",Library,22,Low
+5112,"How can I know the fee due date, no rush",Fees,17,Low
+5113,"Please help me submit my admission documents, my deadline is this week",Admissions,3,Medium
+5114,"Please help me apply for a scholarship, the deadline is today",Scholarship,2,High
+5115,"Need help to access e-journals, my deadline is this week",Library,5,Medium
+5116,"Need help to check my exam result, the deadline is next month",Examination,43,Low
+5117,"Please help me change my elective subject, my exam is in 2 days",Courses,0,High
+5118,"How can I get my fee receipt, no rush",Fees,41,Low
+5119,"I want to know the fee due date, the deadline is next month",Fees,11,Low
+5120,"Please help me check my scholarship status, the deadline is next month",Scholarship,45,Low
+5121,"How can I report a hostel room problem, my exam is in 2 days",Hostel,2,High
+5122,"I want to check my scholarship status, the last date is tomorrow",Scholarship,2,High
+5123,"Need help to fix a failed fee payment, it is very urgent",Fees,1,High
+5124,"How can I report a hostel room problem, the deadline is next month",Hostel,42,Low
+5125,"I want to change my elective subject, just asking for information",Courses,25,Low
+5126,"Please help me get my course syllabus, my exam is tomorrow",Courses,1,High
+5127,"Kindly tell me how to change my elective subject, the deadline is in 4 days",Courses,4,Medium
+5128,"How can I see the exam date sheet, just asking for information",Examination,17,Low
+5129,"I want to check my scholarship status, the last date is in 5 days",Scholarship,3,Medium
+5130,"How can I renew my library book, just asking for information",Library,41,Low
+5131,"Kindly tell me how to get my ID card, the last date is in 20 days",Admissions,33,Low
+5132,"I want to get my hall ticket, just asking for information",Examination,33,Low
+5133,"Kindly tell me how to get my course syllabus, my exam is in 2 days",Courses,0,High
+5134,"Please help me issue a book from the library, I have 6 days left",Library,4,Medium
+5135,"How can I get a bonafide certificate, the deadline is in 4 days",Admissions,3,Medium
+5136,"I want to get my college email ID, it is very urgent",IT Support,2,High
+5137,"Need help to see the exam date sheet, my exam is tomorrow",Examination,2,High
+5138,"How can I fix my exam form error, just asking for information",Examination,33,Low
+5139,"How can I submit my admission documents, the last date is in 5 days",Admissions,6,Medium
+5140,"Need help to get my course syllabus, my deadline is this week",Courses,4,Medium
+5141,"Please help me get a bonafide certificate, just asking for information",Admissions,32,Low
+5142,"How can I report a hostel room problem, the deadline is next month",Hostel,11,Low
+5143,"Need help to reset my portal password, no rush",IT Support,8,Low
+5144,"Please help me download my admit card, no rush",Examination,31,Low
+5145,"Kindly tell me how to check my exam result, the last date is tomorrow",Examination,1,High
+5146,"Please help me change my elective subject, the last date is in 20 days",Courses,22,Low
+5147,"Need help to download my admit card, the last date is in 20 days",Examination,19,Low
+5148,"Need help to get a bonafide certificate, the deadline is next month",Admissions,38,Low
+5149,"Kindly tell me how to get a bonafide certificate, the deadline is next month",Admissions,35,Low
+5150,"Need help to get my course syllabus, the deadline is today",Courses,1,High
+5151,"How can I know hostel gate timings, the last date is tomorrow",Hostel,0,High
+5152,"I want to check my scholarship status, the deadline is in 4 days",Scholarship,4,Medium
+5153,"Please help me fix my exam form error, my deadline is this week",Examination,3,Medium
+5154,"Kindly tell me how to change my elective subject, the deadline is in 4 days",Courses,6,Medium
+5155,"How can I get my course syllabus, my exam is in 2 days",Courses,2,High
+5156,"Kindly tell me how to get my ID card, the last date is tomorrow",Admissions,1,High
+5157,"Kindly tell me how to check my exam result, the deadline is in 4 days",Examination,7,Medium
+5158,"How can I upload my assignment on LMS, the last date is in 20 days",IT Support,10,Low
+5159,"How can I renew my library book, I have 6 days left",Library,4,Medium
+5160,"Kindly tell me how to get my ID card, the last date is in 5 days",Admissions,5,Medium
+5161,"I want to apply for a scholarship, my deadline is this week",Scholarship,5,Medium
+5162,"How can I know the fee due date, no rush",Fees,14,Low
+5163,"Kindly tell me how to reset my portal password, no rush",IT Support,31,Low
+5164,"Kindly tell me how to report a hostel room problem, I have 6 days left",Hostel,7,Medium
+5165,"Need help to issue a book from the library, it is very urgent",Library,1,High
+5166,"Please help me get my college email ID, my exam is in 2 days",IT Support,0,High
+5167,"Please help me know hostel gate timings, no rush",Hostel,8,Low
+5168,"Need help to know the fee due date, it is very urgent",Fees,1,High
+5169,"Kindly tell me how to pay my semester fees, my deadline is this week",Fees,5,Medium
+5170,"I want to change my elective subject, no rush",Courses,17,Low
+5171,"Need help to get my course syllabus, the deadline is next month",Courses,42,Low
+5172,"Need help to report a hostel room problem, my deadline is this week",Hostel,4,Medium
+5173,"Please help me connect to campus Wi-Fi, just asking for information",IT Support,24,Low
+5174,"Need help to upload my assignment on LMS, the deadline is today",IT Support,1,High
+5175,"Kindly tell me how to get a bonafide certificate, my deadline is this week",Admissions,5,Medium
+5176,"Kindly tell me how to know the fee due date, the deadline is in 4 days",Fees,7,Medium
+5177,"Kindly tell me how to get my course syllabus, I have 6 days left",Courses,5,Medium
+5178,"I want to report a hostel room problem, my deadline is this week",Hostel,3,Medium
+5179,"Please help me download my admit card, it is very urgent",Examination,2,High
+5180,"Please help me apply for a scholarship, the deadline is in 4 days",Scholarship,7,Medium
+5181,"Please help me get my course syllabus, it is very urgent",Courses,2,High
+5182,"Please help me report a hostel room problem, no rush",Hostel,9,Low
+5183,"Need help to know hostel gate timings, my deadline is this week",Hostel,6,Medium
+5184,"Kindly tell me how to get my ID card, my exam is in 2 days",Admissions,1,High
+5185,"How can I apply for a scholarship, the deadline is today",Scholarship,2,High
+5186,"Kindly tell me how to change my elective subject, I have 6 days left",Courses,5,Medium
+5187,"Please help me check my exam result, my exam is tomorrow",Examination,1,High
+5188,"How can I know the fee due date, my deadline is this week",Fees,4,Medium
+5189,"How can I renew my library book, my exam is in 2 days",Library,2,High
+5190,"Need help to apply for a scholarship, I have 6 days left",Scholarship,6,Medium
+5191,"Please help me issue a book from the library, my exam is tomorrow",Library,0,High
+5192,"Kindly tell me how to apply for re-evaluation, my exam is in 2 days",Examination,2,High
+5193,"I want to apply for re-evaluation, the last date is tomorrow",Examination,1,High
+5194,"Need help to get a bonafide certificate, I have 6 days left",Admissions,4,Medium
+5195,"Please help me get a bonafide certificate, the last date is in 5 days",Admissions,3,Medium
+5196,"Kindly tell me how to fix a failed fee payment, it is very urgent",Fees,0,High
+5197,"I want to check my scholarship status, it is very urgent",Scholarship,1,High
+5198,"Kindly tell me how to check my scholarship status, I have plenty of time",Scholarship,40,Low
+5199,"Please help me report a hostel room problem, the last date is in 5 days",Hostel,4,Medium
+5200,"Kindly tell me how to log in to the student portal, the last date is in 20 days",IT Support,18,Low
+5201,"Please help me change my elective subject, I have plenty of time",Courses,18,Low
+5202,"I want to get my hall ticket, the deadline is in 4 days",Examination,6,Medium
+5203,"Need help to know the fee due date, the last date is in 20 days",Fees,38,Low
+5204,"Need help to know the fee due date, I have plenty of time",Fees,29,Low
+5205,"Please help me know the fee due date, my deadline is this week",Fees,3,Medium
+5206,"I want to see the exam date sheet, my deadline is this week",Examination,7,Medium
+5207,"Kindly tell me how to change my elective subject, the deadline is today",Courses,1,High
+5208,"Need help to issue a book from the library, the deadline is next month",Library,30,Low
+5209,"Need help to renew my library book, the deadline is today",Library,0,High
+5210,"I want to change my elective subject, my deadline is this week",Courses,5,Medium
+5211,"Please help me get a bonafide certificate, the last date is in 5 days",Admissions,4,Medium
+5212,"Kindly tell me how to change my elective subject, I have plenty of time",Courses,16,Low
+5213,"How can I get my ID card, I have 6 days left",Admissions,4,Medium
+5214,"Kindly tell me how to fix a failed fee payment, the deadline is in 4 days",Fees,5,Medium
+5215,"I want to access e-journals, the last date is in 5 days",Library,6,Medium
+5216,"I want to reset my portal password, the last date is in 5 days",IT Support,7,Medium
+5217,"Kindly tell me how to check my scholarship status, I have plenty of time",Scholarship,37,Low
+5218,"I want to check my scholarship status, the deadline is next month",Scholarship,8,Low
+5219,"Please help me know hostel gate timings, my deadline is this week",Hostel,6,Medium
+5220,"I want to get my fee receipt, the deadline is today",Fees,2,High
+5221,"How can I get my ID card, the last date is in 5 days",Admissions,6,Medium
+5222,"Kindly tell me how to apply for a scholarship, the deadline is next month",Scholarship,24,Low
+5223,"Need help to apply for a hostel room, the deadline is in 4 days",Hostel,3,Medium
+5224,"How can I fix my exam form error, I have plenty of time",Examination,28,Low
+5225,"Kindly tell me how to log in to the student portal, the deadline is today",IT Support,0,High
+5226,"Need help to fix my exam form error, it is very urgent",Examination,2,High
+5227,"I want to connect to campus Wi-Fi, I have plenty of time",IT Support,22,Low
+5228,"Kindly tell me how to apply for a scholarship, no rush",Scholarship,12,Low
+5229,"I want to download my admit card, my exam is in 2 days",Examination,0,High
+5230,"Need help to renew my library book, my deadline is this week",Library,3,Medium
+5231,"Need help to change my elective subject, I have 6 days left",Courses,3,Medium
+5232,"Kindly tell me how to get a bonafide certificate, just asking for information",Admissions,31,Low
+5233,"Kindly tell me how to report a hostel room problem, I have 6 days left",Hostel,7,Medium
+5234,"Need help to get my ID card, my deadline is this week",Admissions,5,Medium
+5235,"I want to pay my semester fees, it is very urgent",Fees,1,High
+5236,"Please help me apply for a hostel room, the last date is tomorrow",Hostel,2,High
+5237,"How can I submit my admission documents, I have plenty of time",Admissions,31,Low
+5238,"How can I change my elective subject, the last date is tomorrow",Courses,1,High
+5239,"I want to get my college email ID, no rush",IT Support,19,Low
+5240,"Please help me get my ID card, the deadline is next month",Admissions,26,Low
+5241,"Need help to get my hall ticket, just asking for information",Examination,16,Low
+5242,"Please help me report a hostel room problem, it is very urgent",Hostel,2,High
+5243,"Please help me apply for a hostel room, I have plenty of time",Hostel,31,Low
+5244,"Please help me log in to the student portal, the last date is in 5 days",IT Support,5,Medium
+5245,"How can I renew my library book, I have 6 days left",Library,3,Medium
+5246,"Please help me pay my semester fees, the deadline is next month",Fees,10,Low
+5247,"How can I get my ID card, the last date is in 5 days",Admissions,7,Medium
+5248,"Please help me report a hostel room problem, my deadline is this week",Hostel,3,Medium
+5249,"Kindly tell me how to fix a failed fee payment, the last date is in 5 days",Fees,3,Medium
+5250,"Kindly tell me how to reset my portal password, I have 6 days left",IT Support,4,Medium
+5251,"Kindly tell me how to get my ID card, it is very urgent",Admissions,0,High
+5252,"How can I apply for a scholarship, the deadline is in 4 days",Scholarship,7,Medium
+5253,"How can I know the fee due date, the last date is in 5 days",Fees,4,Medium
+5254,"Please help me pay my semester fees, my exam is tomorrow",Fees,2,High
+5255,"I want to log in to the student portal, it is very urgent",IT Support,1,High
+5256,"Kindly tell me how to get my hall ticket, the last date is in 20 days",Examination,11,Low
+5257,"I want to get my college email ID, the deadline is next month",IT Support,34,Low
+5258,"Kindly tell me how to get my fee receipt, the last date is in 20 days",Fees,14,Low
+5259,"Please help me see the exam date sheet, the deadline is today",Examination,2,High
+5260,"Need help to get my ID card, no rush",Admissions,21,Low
+5261,"How can I get my fee receipt, the deadline is in 4 days",Fees,6,Medium
+5262,"How can I know hostel gate timings, my exam is tomorrow",Hostel,1,High
+5263,"How can I access e-journals, the last date is in 20 days",Library,13,Low
+5264,"Please help me get my course syllabus, the last date is in 5 days",Courses,3,Medium
+5265,"Kindly tell me how to issue a book from the library, the last date is tomorrow",Library,1,High
+5266,"Kindly tell me how to get my ID card, I have 6 days left",Admissions,3,Medium
+5267,"Need help to get my course syllabus, my exam is in 2 days",Courses,2,High
+5268,"Please help me get a bonafide certificate, my deadline is this week",Admissions,6,Medium
+5269,"Need help to connect to campus Wi-Fi, no rush",IT Support,21,Low
+5270,"How can I get my hall ticket, the last date is in 5 days",Examination,7,Medium
+5271,"Please help me check my exam result, no rush",Examination,36,Low
+5272,"How can I apply for a scholarship, the deadline is in 4 days",Scholarship,6,Medium
+5273,"Kindly tell me how to check my exam result, just asking for information",Examination,25,Low
+5274,"Please help me check my scholarship status, I have plenty of time",Scholarship,23,Low
+5275,"How can I access e-journals, my exam is in 2 days",Library,0,High
+5276,"Need help to get a bonafide certificate, it is very urgent",Admissions,0,High
+5277,"Please help me upload my assignment on LMS, my exam is in 2 days",IT Support,2,High
+5278,"Need help to issue a book from the library, the last date is in 5 days",Library,4,Medium
+5279,"Kindly tell me how to get a bonafide certificate, I have 6 days left",Admissions,5,Medium
+5280,"I want to access e-journals, my exam is in 2 days",Library,0,High
+5281,"I want to see the exam date sheet, it is very urgent",Examination,0,High
+5282,"I want to fix a failed fee payment, I have 6 days left",Fees,5,Medium
+5283,"How can I log in to the student portal, my exam is in 2 days",IT Support,2,High
+5284,"Need help to renew my library book, my exam is in 2 days",Library,0,High
+5285,"Kindly tell me how to access e-journals, the deadline is in 4 days",Library,4,Medium
+5286,"I want to issue a book from the library, no rush",Library,9,Low
+5287,"Need help to renew my library book, I have 6 days left",Library,5,Medium
+5288,"How can I check my scholarship status, I have 6 days left",Scholarship,6,Medium
+5289,"Need help to apply for a scholarship, my exam is tomorrow",Scholarship,0,High
+5290,"Kindly tell me how to issue a book from the library, my deadline is this week",Library,5,Medium
+5291,"I want to get my course syllabus, the last date is tomorrow",Courses,0,High
+5292,"I want to apply for a hostel room, the last date is tomorrow",Hostel,0,High
+5293,"I want to upload my assignment on LMS, my exam is tomorrow",IT Support,2,High
+5294,"Kindly tell me how to access e-journals, my exam is in 2 days",Library,0,High
+5295,"Please help me apply for a scholarship, the last date is in 5 days",Scholarship,6,Medium
+5296,"How can I apply for a scholarship, just asking for information",Scholarship,18,Low
+5297,"I want to get my ID card, just asking for information",Admissions,25,Low
+5298,"Need help to apply for a hostel room, my deadline is this week",Hostel,7,Medium
+5299,"How can I apply for a hostel room, I have 6 days left",Hostel,3,Medium
+5300,"I want to renew my library book, the deadline is next month",Library,25,Low
+5301,"How can I get a bonafide certificate, just asking for information",Admissions,34,Low
+5302,"Need help to get my hall ticket, it is very urgent",Examination,0,High
+5303,"Need help to get my fee receipt, it is very urgent",Fees,0,High
+5304,"Need help to get my course syllabus, my exam is tomorrow",Courses,2,High
+5305,"I want to renew my library book, the last date is in 20 days",Library,22,Low
+5306,"Kindly tell me how to see the exam date sheet, no rush",Examination,36,Low
+5307,"Need help to renew my library book, no rush",Library,44,Low
+5308,"Need help to submit my admission documents, the deadline is today",Admissions,0,High
+5309,"Kindly tell me how to apply for a hostel room, I have 6 days left",Hostel,7,Medium
+5310,"How can I apply for a hostel room, just asking for information",Hostel,38,Low
+5311,"I want to fix my exam form error, it is very urgent",Examination,1,High
+5312,"I want to get a bonafide certificate, I have 6 days left",Admissions,4,Medium
+5313,"I want to know hostel gate timings, I have 6 days left",Hostel,6,Medium
+5314,"Need help to pay my semester fees, the deadline is next month",Fees,38,Low
+5315,"How can I know the fee due date, my exam is tomorrow",Fees,2,High
+5316,"Please help me connect to campus Wi-Fi, just asking for information",IT Support,12,Low
+5317,"Kindly tell me how to report a hostel room problem, the deadline is next month",Hostel,26,Low
+5318,"Please help me get my fee receipt, just asking for information",Fees,15,Low
+5319,"How can I issue a book from the library, the deadline is in 4 days",Library,7,Medium
+5320,"Kindly tell me how to download my admit card, the deadline is in 4 days",Examination,3,Medium
+5321,"Need help to log in to the student portal, the deadline is next month",IT Support,26,Low
+5322,"I want to apply for a scholarship, no rush",Scholarship,23,Low
+5323,"Please help me know hostel gate timings, the last date is tomorrow",Hostel,2,High
+5324,"Please help me renew my library book, my deadline is this week",Library,4,Medium
+5325,"Need help to change my elective subject, the deadline is next month",Courses,38,Low
+5326,"Need help to change my elective subject, the deadline is today",Courses,0,High
+5327,"How can I get my ID card, just asking for information",Admissions,37,Low
+5328,"Kindly tell me how to upload my assignment on LMS, no rush",IT Support,16,Low
+5329,"How can I change my elective subject, no rush",Courses,25,Low
+5330,"I want to change my elective subject, the last date is in 5 days",Courses,3,Medium
+5331,"Kindly tell me how to check my scholarship status, the last date is in 5 days",Scholarship,3,Medium
+5332,"I want to issue a book from the library, the deadline is next month",Library,37,Low
+5333,"Please help me fix a failed fee payment, I have 6 days left",Fees,4,Medium
+5334,"Kindly tell me how to renew my library book, the deadline is next month",Library,38,Low
+5335,"Kindly tell me how to get my course syllabus, it is very urgent",Courses,1,High
+5336,"How can I log in to the student portal, the last date is tomorrow",IT Support,0,High
+5337,"Kindly tell me how to pay my semester fees, no rush",Fees,43,Low
+5338,"Kindly tell me how to get my fee receipt, the last date is in 5 days",Fees,7,Medium
+5339,"Kindly tell me how to check my scholarship status, I have plenty of time",Scholarship,9,Low
+5340,"Kindly tell me how to check my scholarship status, the deadline is today",Scholarship,2,High
+5341,"Kindly tell me how to get my ID card, the deadline is in 4 days",Admissions,5,Medium
+5342,"Please help me pay my semester fees, no rush",Fees,8,Low
+5343,"Need help to change my elective subject, no rush",Courses,45,Low
+5344,"Kindly tell me how to get my hall ticket, the last date is in 20 days",Examination,11,Low
+5345,"How can I check my scholarship status, I have plenty of time",Scholarship,22,Low
+5346,"Kindly tell me how to change my elective subject, the deadline is next month",Courses,23,Low
+5347,"I want to know hostel gate timings, just asking for information",Hostel,35,Low
+5348,"I want to get my course syllabus, my exam is in 2 days",Courses,2,High
+5349,"Need help to apply for re-evaluation, I have 6 days left",Examination,5,Medium
+5350,"I want to get my ID card, the deadline is in 4 days",Admissions,6,Medium
+5351,"Kindly tell me how to apply for a hostel room, I have plenty of time",Hostel,40,Low
+5352,"Kindly tell me how to connect to campus Wi-Fi, the deadline is in 4 days",IT Support,6,Medium
+5353,"I want to submit my admission documents, the last date is tomorrow",Admissions,0,High
+5354,"Need help to get my fee receipt, the deadline is today",Fees,1,High
+5355,"I want to issue a book from the library, my exam is in 2 days",Library,2,High
+5356,"How can I submit my admission documents, my deadline is this week",Admissions,4,Medium
+5357,"Please help me apply for re-evaluation, the deadline is in 4 days",Examination,3,Medium
+5358,"Please help me submit my admission documents, I have plenty of time",Admissions,29,Low
+5359,"How can I report a hostel room problem, the deadline is next month",Hostel,38,Low
+5360,"Kindly tell me how to fix a failed fee payment, just asking for information",Fees,20,Low
+5361,"Need help to download my admit card, the deadline is in 4 days",Examination,4,Medium
+5362,"Please help me issue a book from the library, my deadline is this week",Library,6,Medium
+5363,"Please help me apply for a hostel room, just asking for information",Hostel,30,Low
+5364,"Please help me renew my library book, the deadline is today",Library,1,High
+5365,"Please help me get a bonafide certificate, the deadline is today",Admissions,0,High
+5366,"Please help me change my elective subject, the deadline is next month",Courses,45,Low
+5367,"How can I renew my library book, my exam is in 2 days",Library,2,High
+5368,"Kindly tell me how to apply for a hostel room, my exam is tomorrow",Hostel,0,High
+5369,"Please help me access e-journals, the last date is in 5 days",Library,6,Medium
+5370,"Need help to get a bonafide certificate, the deadline is next month",Admissions,8,Low
+5371,"How can I renew my library book, the deadline is next month",Library,41,Low
+5372,"How can I get my course syllabus, the last date is in 20 days",Courses,32,Low
+5373,"I want to check my scholarship status, the deadline is next month",Scholarship,30,Low
+5374,"Need help to pay my semester fees, my deadline is this week",Fees,7,Medium
+5375,"Please help me know the fee due date, the deadline is today",Fees,1,High
+5376,"Kindly tell me how to change my elective subject, the last date is in 20 days",Courses,35,Low
+5377,"Kindly tell me how to get a bonafide certificate, my deadline is this week",Admissions,4,Medium
+5378,"Kindly tell me how to get my hall ticket, the deadline is in 4 days",Examination,7,Medium
+5379,"How can I access e-journals, the last date is tomorrow",Library,2,High
+5380,"Kindly tell me how to issue a book from the library, the deadline is next month",Library,40,Low
+5381,"Please help me check my scholarship status, the last date is in 5 days",Scholarship,3,Medium
+5382,"How can I submit my admission documents, the deadline is in 4 days",Admissions,6,Medium
+5383,"Need help to check my scholarship status, the deadline is in 4 days",Scholarship,6,Medium
+5384,"Need help to upload my assignment on LMS, the last date is in 20 days",IT Support,44,Low
+5385,"How can I issue a book from the library, the last date is in 20 days",Library,30,Low
+5386,"Please help me get my hall ticket, I have 6 days left",Examination,4,Medium
+5387,"I want to get my course syllabus, the last date is tomorrow",Courses,0,High
+5388,"Kindly tell me how to apply for a scholarship, my deadline is this week",Scholarship,5,Medium
+5389,"I want to apply for a scholarship, the last date is in 20 days",Scholarship,24,Low
+5390,"I want to apply for a hostel room, the deadline is next month",Hostel,44,Low
+5391,"How can I report a hostel room problem, my deadline is this week",Hostel,5,Medium
+5392,"How can I change my elective subject, the last date is in 5 days",Courses,4,Medium
+5393,"Please help me pay my semester fees, just asking for information",Fees,17,Low
+5394,"Need help to check my scholarship status, the deadline is next month",Scholarship,18,Low
+5395,"Please help me change my elective subject, I have plenty of time",Courses,19,Low
+5396,"Kindly tell me how to know hostel gate timings, my deadline is this week",Hostel,7,Medium
+5397,"Kindly tell me how to connect to campus Wi-Fi, the last date is in 5 days",IT Support,3,Medium
+5398,"Kindly tell me how to reset my portal password, it is very urgent",IT Support,1,High
+5399,"Please help me check my scholarship status, just asking for information",Scholarship,9,Low
+5400,"Need help to know the fee due date, my deadline is this week",Fees,6,Medium
+5401,"Need help to get a bonafide certificate, no rush",Admissions,25,Low
+5402,"Please help me apply for a scholarship, the last date is in 20 days",Scholarship,9,Low
+5403,"How can I change my elective subject, the last date is in 5 days",Courses,5,Medium
+5404,"Need help to report a hostel room problem, I have 6 days left",Hostel,4,Medium
+5405,"Kindly tell me how to check my scholarship status, my deadline is this week",Scholarship,4,Medium
+5406,"Kindly tell me how to change my elective subject, I have plenty of time",Courses,28,Low
+5407,"How can I fix my exam form error, I have 6 days left",Examination,6,Medium
+5408,"How can I renew my library book, the deadline is in 4 days",Library,6,Medium
+5409,"How can I renew my library book, the last date is tomorrow",Library,1,High
+5410,"Need help to check my scholarship status, my exam is tomorrow",Scholarship,2,High
+5411,"Kindly tell me how to fix a failed fee payment, my exam is tomorrow",Fees,0,High
+5412,"Please help me check my scholarship status, the deadline is next month",Scholarship,18,Low
+5413,"Kindly tell me how to apply for a hostel room, the deadline is in 4 days",Hostel,7,Medium
+5414,"Need help to submit my admission documents, the last date is tomorrow",Admissions,0,High
+5415,"Kindly tell me how to get my hall ticket, the last date is in 5 days",Examination,3,Medium
+5416,"Need help to get my hall ticket, I have 6 days left",Examination,6,Medium
+5417,"Need help to apply for a scholarship, I have plenty of time",Scholarship,11,Low
+5418,"Kindly tell me how to check my scholarship status, the deadline is in 4 days",Scholarship,6,Medium
+5419,"How can I reset my portal password, the deadline is today",IT Support,0,High
+5420,"Need help to submit my admission documents, it is very urgent",Admissions,2,High
+5421,"Kindly tell me how to get my ID card, the last date is in 5 days",Admissions,7,Medium
+5422,"Kindly tell me how to download my admit card, I have 6 days left",Examination,3,Medium
+5423,"Need help to issue a book from the library, the deadline is in 4 days",Library,4,Medium
+5424,"I want to download my admit card, the last date is tomorrow",Examination,2,High
+5425,"Please help me download my admit card, just asking for information",Examination,29,Low
+5426,"I want to download my admit card, the last date is tomorrow",Examination,0,High
+5427,"How can I change my elective subject, it is very urgent",Courses,1,High
+5428,"Please help me apply for a scholarship, the last date is in 5 days",Scholarship,7,Medium
+5429,"Kindly tell me how to check my scholarship status, the last date is in 5 days",Scholarship,5,Medium
+5430,"Need help to get my college email ID, the last date is in 20 days",IT Support,34,Low
+5431,"Need help to get my college email ID, no rush",IT Support,39,Low
+5432,"Please help me see the exam date sheet, the last date is in 20 days",Examination,27,Low
+5433,"Need help to access e-journals, no rush",Library,31,Low
+5434,"Please help me get my college email ID, it is very urgent",IT Support,0,High
+5435,"I want to issue a book from the library, it is very urgent",Library,1,High
+5436,"How can I get my fee receipt, no rush",Fees,24,Low
+5437,"Need help to renew my library book, just asking for information",Library,12,Low
+5438,"Need help to get a bonafide certificate, my deadline is this week",Admissions,6,Medium
+5439,"How can I know hostel gate timings, the last date is in 5 days",Hostel,6,Medium
+5440,"Please help me know the fee due date, no rush",Fees,16,Low
+5441,"I want to apply for re-evaluation, the deadline is in 4 days",Examination,3,Medium
+5442,"Need help to change my elective subject, it is very urgent",Courses,0,High
+5443,"Please help me fix my exam form error, no rush",Examination,13,Low
+5444,"How can I access e-journals, I have plenty of time",Library,22,Low
+5445,"Kindly tell me how to fix a failed fee payment, just asking for information",Fees,40,Low
+5446,"I want to pay my semester fees, my exam is tomorrow",Fees,0,High
+5447,"How can I get a bonafide certificate, the last date is in 20 days",Admissions,40,Low
+5448,"Kindly tell me how to see the exam date sheet, the deadline is in 4 days",Examination,3,Medium
+5449,"How can I check my exam result, the deadline is today",Examination,1,High
+5450,"How can I log in to the student portal, my exam is in 2 days",IT Support,0,High
+5451,"I want to connect to campus Wi-Fi, the last date is in 5 days",IT Support,3,Medium
+5452,"Kindly tell me how to know hostel gate timings, the last date is in 5 days",Hostel,3,Medium
+5453,"I want to change my elective subject, the deadline is today",Courses,2,High
+5454,"How can I check my scholarship status, I have 6 days left",Scholarship,7,Medium
+5455,"How can I apply for a scholarship, the last date is in 20 days",Scholarship,29,Low
+5456,"Need help to apply for a scholarship, I have 6 days left",Scholarship,5,Medium
+5457,"Kindly tell me how to apply for a scholarship, the deadline is next month",Scholarship,42,Low
+5458,"How can I apply for re-evaluation, the last date is tomorrow",Examination,2,High
+5459,"Kindly tell me how to apply for a hostel room, the deadline is next month",Hostel,9,Low
+5460,"Please help me get my ID card, just asking for information",Admissions,36,Low
+5461,"Need help to submit my admission documents, the deadline is next month",Admissions,42,Low
+5462,"Please help me check my scholarship status, the last date is tomorrow",Scholarship,2,High
+5463,"Kindly tell me how to download my admit card, my deadline is this week",Examination,6,Medium
+5464,"Kindly tell me how to apply for a scholarship, I have 6 days left",Scholarship,6,Medium
+5465,"Kindly tell me how to get my hall ticket, I have plenty of time",Examination,32,Low
+5466,"Please help me get my course syllabus, my exam is in 2 days",Courses,1,High
+5467,"Kindly tell me how to check my scholarship status, it is very urgent",Scholarship,1,High
+5468,"Need help to fix a failed fee payment, the deadline is in 4 days",Fees,7,Medium
+5469,"Need help to download my admit card, my deadline is this week",Examination,6,Medium
+5470,"Need help to get my course syllabus, the last date is tomorrow",Courses,0,High
+5471,"Please help me get my fee receipt, the deadline is next month",Fees,17,Low
+5472,"Need help to apply for a hostel room, I have 6 days left",Hostel,4,Medium
+5473,"Kindly tell me how to download my admit card, I have 6 days left",Examination,7,Medium
+5474,"How can I apply for a scholarship, the last date is tomorrow",Scholarship,0,High
+5475,"I want to submit my admission documents, I have plenty of time",Admissions,31,Low
+5476,"I want to issue a book from the library, the last date is in 20 days",Library,15,Low
+5477,"I want to get my ID card, my deadline is this week",Admissions,7,Medium
+5478,"How can I get my fee receipt, my exam is tomorrow",Fees,2,High
+5479,"How can I log in to the student portal, my deadline is this week",IT Support,5,Medium
+5480,"Kindly tell me how to know hostel gate timings, my exam is tomorrow",Hostel,1,High
+5481,"Need help to change my elective subject, just asking for information",Courses,20,Low
+5482,"Need help to fix a failed fee payment, my exam is tomorrow",Fees,0,High
+5483,"Kindly tell me how to get my fee receipt, it is very urgent",Fees,1,High
+5484,"Kindly tell me how to get my college email ID, no rush",IT Support,8,Low
+5485,"I want to apply for a scholarship, the deadline is in 4 days",Scholarship,4,Medium
+5486,"I want to get my course syllabus, the last date is tomorrow",Courses,2,High
+5487,"Please help me get my course syllabus, the deadline is in 4 days",Courses,4,Medium
+5488,"Need help to know hostel gate timings, I have plenty of time",Hostel,17,Low
+5489,"I want to fix a failed fee payment, my deadline is this week",Fees,4,Medium
+5490,"Kindly tell me how to renew my library book, it is very urgent",Library,1,High
+5491,"I want to pay my semester fees, the last date is tomorrow",Fees,0,High
+5492,"Kindly tell me how to submit my admission documents, I have plenty of time",Admissions,41,Low
+5493,"Need help to change my elective subject, the deadline is in 4 days",Courses,6,Medium
+5494,"Please help me check my scholarship status, the last date is in 20 days",Scholarship,10,Low
+5495,"How can I get my course syllabus, just asking for information",Courses,40,Low
+5496,"How can I pay my semester fees, my deadline is this week",Fees,5,Medium
+5497,"Please help me access e-journals, the last date is in 20 days",Library,31,Low
+5498,"Please help me upload my assignment on LMS, just asking for information",IT Support,16,Low
+5499,"I want to reset my portal password, I have 6 days left",IT Support,3,Medium
+5500,"How can I issue a book from the library, my exam is in 2 days",Library,0,High
+5501,"Need help to report a hostel room problem, it is very urgent",Hostel,2,High
+5502,"Please help me report a hostel room problem, I have 6 days left",Hostel,5,Medium
+5503,"How can I issue a book from the library, no rush",Library,38,Low
+5504,"Need help to submit my admission documents, it is very urgent",Admissions,1,High
+5505,"How can I know the fee due date, no rush",Fees,37,Low
+5506,"Please help me download my admit card, the last date is tomorrow",Examination,2,High
+5507,"Kindly tell me how to report a hostel room problem, the deadline is next month",Hostel,39,Low
+5508,"Need help to get a bonafide certificate, the last date is in 5 days",Admissions,3,Medium
+5509,"Kindly tell me how to apply for a scholarship, the last date is tomorrow",Scholarship,0,High
+5510,"Need help to know the fee due date, the deadline is in 4 days",Fees,4,Medium
+5511,"Please help me access e-journals, the last date is in 5 days",Library,5,Medium
+5512,"Kindly tell me how to issue a book from the library, the deadline is today",Library,0,High
+5513,"I want to get my ID card, my exam is tomorrow",Admissions,1,High
+5514,"Please help me change my elective subject, it is very urgent",Courses,1,High
+5515,"I want to check my scholarship status, the deadline is in 4 days",Scholarship,6,Medium
+5516,"Need help to apply for re-evaluation, my exam is in 2 days",Examination,1,High
+5517,"Need help to get my ID card, my exam is in 2 days",Admissions,2,High
+5518,"Please help me get my fee receipt, no rush",Fees,17,Low
+5519,"Kindly tell me how to pay my semester fees, my exam is in 2 days",Fees,2,High
+5520,"Need help to know the fee due date, my deadline is this week",Fees,6,Medium
+5521,"Please help me know hostel gate timings, the deadline is today",Hostel,2,High
+5522,"Kindly tell me how to check my exam result, the deadline is in 4 days",Examination,7,Medium
+5523,"I want to pay my semester fees, the last date is in 5 days",Fees,6,Medium
+5524,"I want to submit my admission documents, the last date is tomorrow",Admissions,0,High
+5525,"Kindly tell me how to renew my library book, the last date is in 20 days",Library,25,Low
+5526,"I want to reset my portal password, just asking for information",IT Support,27,Low
+5527,"Need help to log in to the student portal, my exam is tomorrow",IT Support,0,High
+5528,"How can I renew my library book, just asking for information",Library,13,Low
+5529,"I want to know hostel gate timings, just asking for information",Hostel,22,Low
+5530,"I want to reset my portal password, I have 6 days left",IT Support,5,Medium
+5531,"Please help me get a bonafide certificate, it is very urgent",Admissions,0,High
+5532,"Need help to change my elective subject, the deadline is today",Courses,1,High
+5533,"Need help to get a bonafide certificate, my exam is in 2 days",Admissions,1,High
+5534,"I want to check my scholarship status, my deadline is this week",Scholarship,5,Medium
+5535,"I want to apply for a scholarship, the deadline is in 4 days",Scholarship,3,Medium
+5536,"Kindly tell me how to get my college email ID, my exam is tomorrow",IT Support,2,High
+5537,"Please help me apply for a hostel room, my deadline is this week",Hostel,4,Medium
+5538,"I want to fix my exam form error, the last date is in 5 days",Examination,6,Medium
+5539,"Kindly tell me how to download my admit card, the deadline is today",Examination,0,High
+5540,"I want to upload my assignment on LMS, the deadline is next month",IT Support,8,Low
+5541,"How can I get my fee receipt, my deadline is this week",Fees,6,Medium
+5542,"Kindly tell me how to know hostel gate timings, my exam is tomorrow",Hostel,0,High
+5543,"Kindly tell me how to apply for a scholarship, the deadline is in 4 days",Scholarship,5,Medium
+5544,"I want to check my exam result, no rush",Examination,44,Low
+5545,"Need help to change my elective subject, just asking for information",Courses,9,Low
+5546,"Please help me check my scholarship status, my exam is in 2 days",Scholarship,1,High
+5547,"Please help me see the exam date sheet, the last date is in 5 days",Examination,3,Medium
+5548,"Please help me renew my library book, my deadline is this week",Library,5,Medium
+5549,"Please help me check my exam result, the deadline is in 4 days",Examination,7,Medium
+5550,"I want to report a hostel room problem, I have 6 days left",Hostel,3,Medium
+5551,"How can I change my elective subject, the last date is in 5 days",Courses,6,Medium
+5552,"Need help to upload my assignment on LMS, just asking for information",IT Support,14,Low
+5553,"How can I access e-journals, my exam is in 2 days",Library,2,High
+5554,"Kindly tell me how to check my scholarship status, the last date is in 20 days",Scholarship,43,Low
+5555,"Need help to apply for a scholarship, the last date is in 20 days",Scholarship,29,Low
+5556,"Please help me renew my library book, I have 6 days left",Library,6,Medium
+5557,"Please help me renew my library book, the last date is in 5 days",Library,6,Medium
+5558,"Need help to apply for a scholarship, the deadline is in 4 days",Scholarship,6,Medium
+5559,"Need help to get a bonafide certificate, the deadline is in 4 days",Admissions,5,Medium
+5560,"How can I check my scholarship status, just asking for information",Scholarship,24,Low
+5561,"Need help to get my ID card, the deadline is next month",Admissions,23,Low
+5562,"I want to report a hostel room problem, the deadline is today",Hostel,2,High
+5563,"Kindly tell me how to check my exam result, my deadline is this week",Examination,6,Medium
+5564,"I want to see the exam date sheet, the deadline is in 4 days",Examination,7,Medium
+5565,"Please help me access e-journals, the last date is in 5 days",Library,5,Medium
+5566,"Kindly tell me how to get my course syllabus, just asking for information",Courses,10,Low
+5567,"Kindly tell me how to check my exam result, I have plenty of time",Examination,21,Low
+5568,"How can I get my ID card, it is very urgent",Admissions,0,High
+5569,"I want to renew my library book, the last date is in 5 days",Library,5,Medium
+5570,"I want to apply for re-evaluation, the last date is in 5 days",Examination,4,Medium
+5571,"Please help me upload my assignment on LMS, I have plenty of time",IT Support,32,Low
+5572,"Need help to apply for a hostel room, the deadline is today",Hostel,0,High
+5573,"Need help to get a bonafide certificate, the last date is in 20 days",Admissions,36,Low
+5574,"Need help to issue a book from the library, I have 6 days left",Library,6,Medium
+5575,"Please help me know hostel gate timings, the last date is in 5 days",Hostel,6,Medium
+5576,"Need help to issue a book from the library, it is very urgent",Library,2,High
+5577,"Kindly tell me how to apply for a hostel room, no rush",Hostel,17,Low
+5578,"Need help to apply for a hostel room, the deadline is today",Hostel,0,High
+5579,"I want to apply for a scholarship, the last date is in 20 days",Scholarship,15,Low
+5580,"Need help to connect to campus Wi-Fi, the last date is in 20 days",IT Support,24,Low
+5581,"How can I get my course syllabus, I have plenty of time",Courses,20,Low
+5582,"Need help to apply for a scholarship, I have 6 days left",Scholarship,4,Medium
+5583,"I want to get my ID card, my deadline is this week",Admissions,7,Medium
+5584,"How can I check my exam result, just asking for information",Examination,19,Low
+5585,"Need help to know the fee due date, the last date is in 20 days",Fees,33,Low
+5586,"How can I get my ID card, the deadline is in 4 days",Admissions,3,Medium
+5587,"How can I log in to the student portal, my exam is in 2 days",IT Support,0,High
+5588,"Need help to access e-journals, my exam is in 2 days",Library,0,High
+5589,"I want to report a hostel room problem, the last date is in 20 days",Hostel,45,Low
+5590,"How can I log in to the student portal, the deadline is in 4 days",IT Support,6,Medium
+5591,"How can I get a bonafide certificate, it is very urgent",Admissions,1,High
+5592,"How can I fix my exam form error, the last date is in 5 days",Examination,5,Medium
+5593,"Kindly tell me how to check my scholarship status, the deadline is in 4 days",Scholarship,3,Medium
+5594,"Kindly tell me how to access e-journals, just asking for information",Library,27,Low
+5595,"Kindly tell me how to know hostel gate timings, the last date is tomorrow",Hostel,0,High
+5596,"How can I get my ID card, I have 6 days left",Admissions,5,Medium
+5597,"Kindly tell me how to report a hostel room problem, the deadline is today",Hostel,1,High
+5598,"Kindly tell me how to see the exam date sheet, my exam is in 2 days",Examination,0,High
+5599,"How can I access e-journals, my deadline is this week",Library,5,Medium
+5600,"Kindly tell me how to check my scholarship status, the last date is in 20 days",Scholarship,28,Low
+5601,"Kindly tell me how to report a hostel room problem, it is very urgent",Hostel,2,High
+5602,"Please help me get a bonafide certificate, the deadline is today",Admissions,0,High
+5603,"I want to apply for re-evaluation, the last date is in 5 days",Examination,6,Medium
+5604,"I want to know the fee due date, no rush",Fees,11,Low
+5605,"Kindly tell me how to get my fee receipt, I have plenty of time",Fees,10,Low
+5606,"Please help me check my scholarship status, it is very urgent",Scholarship,0,High
+5607,"How can I renew my library book, I have 6 days left",Library,5,Medium
+5608,"I want to issue a book from the library, no rush",Library,45,Low
+5609,"Please help me apply for a hostel room, my exam is in 2 days",Hostel,2,High
+5610,"I want to pay my semester fees, it is very urgent",Fees,2,High
+5611,"I want to issue a book from the library, the last date is in 5 days",Library,3,Medium
+5612,"How can I get my fee receipt, I have plenty of time",Fees,42,Low
+5613,"How can I apply for a scholarship, it is very urgent",Scholarship,1,High
+5614,"Kindly tell me how to see the exam date sheet, the last date is tomorrow",Examination,1,High
+5615,"Need help to know hostel gate timings, the last date is tomorrow",Hostel,2,High
+5616,"I want to get my course syllabus, I have plenty of time",Courses,41,Low
+5617,"I want to get a bonafide certificate, the last date is in 5 days",Admissions,4,Medium
+5618,"Kindly tell me how to get my college email ID, my deadline is this week",IT Support,4,Medium
+5619,"How can I know the fee due date, the last date is tomorrow",Fees,2,High
+5620,"Need help to submit my admission documents, the deadline is in 4 days",Admissions,5,Medium
+5621,"How can I upload my assignment on LMS, I have plenty of time",IT Support,10,Low
+5622,"I want to get my college email ID, the deadline is next month",IT Support,29,Low
+5623,"I want to get my course syllabus, no rush",Courses,29,Low
+5624,"How can I know hostel gate timings, the last date is tomorrow",Hostel,2,High
+5625,"Please help me fix a failed fee payment, the last date is in 5 days",Fees,5,Medium
+5626,"I want to submit my admission documents, I have 6 days left",Admissions,7,Medium
+5627,"Kindly tell me how to get a bonafide certificate, the last date is tomorrow",Admissions,1,High
+5628,"Need help to reset my portal password, I have plenty of time",IT Support,16,Low
+5629,"Need help to get my course syllabus, the deadline is in 4 days",Courses,6,Medium
+5630,"How can I report a hostel room problem, the last date is tomorrow",Hostel,1,High
+5631,"Kindly tell me how to get my fee receipt, I have 6 days left",Fees,4,Medium
+5632,"How can I renew my library book, the last date is in 5 days",Library,7,Medium
+5633,"Kindly tell me how to change my elective subject, I have 6 days left",Courses,5,Medium
+5634,"Need help to know hostel gate timings, the deadline is in 4 days",Hostel,7,Medium
+5635,"Please help me know hostel gate timings, my exam is in 2 days",Hostel,1,High
+5636,"How can I access e-journals, the deadline is in 4 days",Library,6,Medium
+5637,"How can I fix a failed fee payment, the deadline is next month",Fees,22,Low
+5638,"Need help to know the fee due date, the last date is in 5 days",Fees,5,Medium
+5639,"Please help me apply for a hostel room, my exam is in 2 days",Hostel,0,High
+5640,"I want to get my course syllabus, the last date is tomorrow",Courses,0,High
+5641,"How can I log in to the student portal, my exam is tomorrow",IT Support,1,High
+5642,"I want to get my ID card, my deadline is this week",Admissions,7,Medium
+5643,"Please help me get my ID card, the deadline is in 4 days",Admissions,5,Medium
+5644,"I want to connect to campus Wi-Fi, I have plenty of time",IT Support,21,Low
+5645,"Kindly tell me how to get my course syllabus, the last date is in 20 days",Courses,11,Low
+5646,"How can I submit my admission documents, no rush",Admissions,45,Low
+5647,"How can I apply for a scholarship, my exam is in 2 days",Scholarship,0,High
+5648,"Please help me get my ID card, I have 6 days left",Admissions,7,Medium
+5649,"Need help to get my college email ID, I have plenty of time",IT Support,22,Low
+5650,"Need help to apply for a scholarship, no rush",Scholarship,23,Low
+5651,"I want to see the exam date sheet, the last date is in 20 days",Examination,40,Low
+5652,"Kindly tell me how to download my admit card, my deadline is this week",Examination,5,Medium
+5653,"How can I reset my portal password, my deadline is this week",IT Support,4,Medium
+5654,"Please help me know the fee due date, it is very urgent",Fees,0,High
+5655,"Need help to access e-journals, I have plenty of time",Library,35,Low
+5656,"Kindly tell me how to get my hall ticket, the last date is in 20 days",Examination,23,Low
+5657,"Kindly tell me how to change my elective subject, it is very urgent",Courses,2,High
+5658,"Need help to access e-journals, the last date is in 5 days",Library,6,Medium
+5659,"Please help me get my course syllabus, the last date is tomorrow",Courses,2,High
+5660,"Please help me see the exam date sheet, the last date is in 5 days",Examination,7,Medium
+5661,"Need help to apply for a hostel room, I have 6 days left",Hostel,6,Medium
+5662,"How can I apply for a hostel room, I have 6 days left",Hostel,5,Medium
+5663,"Need help to report a hostel room problem, I have plenty of time",Hostel,20,Low
+5664,"Kindly tell me how to check my scholarship status, I have 6 days left",Scholarship,7,Medium
+5665,"Kindly tell me how to get my college email ID, I have 6 days left",IT Support,5,Medium
+5666,"I want to fix a failed fee payment, no rush",Fees,36,Low
+5667,"Kindly tell me how to report a hostel room problem, the last date is in 20 days",Hostel,21,Low
+5668,"Need help to submit my admission documents, the deadline is in 4 days",Admissions,5,Medium
+5669,"How can I know hostel gate timings, the last date is tomorrow",Hostel,2,High
+5670,"Kindly tell me how to know the fee due date, the last date is in 20 days",Fees,8,Low
+5671,"Need help to check my scholarship status, just asking for information",Scholarship,32,Low
+5672,"Kindly tell me how to reset my portal password, I have plenty of time",IT Support,19,Low
+5673,"Need help to get my fee receipt, the deadline is next month",Fees,16,Low
+5674,"Please help me change my elective subject, my exam is in 2 days",Courses,0,High
+5675,"Need help to renew my library book, no rush",Library,25,Low
+5676,"Kindly tell me how to log in to the student portal, I have 6 days left",IT Support,6,Medium
+5677,"I want to get my ID card, the last date is tomorrow",Admissions,0,High
+5678,"Need help to get a bonafide certificate, just asking for information",Admissions,28,Low
+5679,"How can I get my ID card, the last date is in 5 days",Admissions,7,Medium
+5680,"Need help to get my ID card, just asking for information",Admissions,16,Low
+5681,"Please help me check my scholarship status, I have 6 days left",Scholarship,7,Medium
+5682,"Need help to apply for a scholarship, I have 6 days left",Scholarship,3,Medium
+5683,"I want to upload my assignment on LMS, I have 6 days left",IT Support,4,Medium
+5684,"Kindly tell me how to pay my semester fees, the last date is in 5 days",Fees,4,Medium
+5685,"Please help me check my scholarship status, I have 6 days left",Scholarship,3,Medium
+5686,"How can I get my hall ticket, it is very urgent",Examination,2,High
+5687,"I want to get a bonafide certificate, my exam is in 2 days",Admissions,1,High
+5688,"How can I log in to the student portal, I have 6 days left",IT Support,7,Medium
+5689,"Kindly tell me how to upload my assignment on LMS, it is very urgent",IT Support,0,High
+5690,"Need help to get my course syllabus, I have plenty of time",Courses,21,Low
+5691,"How can I check my exam result, it is very urgent",Examination,0,High
+5692,"How can I apply for re-evaluation, the last date is in 20 days",Examination,40,Low
+5693,"Kindly tell me how to change my elective subject, my deadline is this week",Courses,4,Medium
+5694,"Kindly tell me how to get my college email ID, I have 6 days left",IT Support,6,Medium
+5695,"Please help me check my scholarship status, the deadline is next month",Scholarship,9,Low
+5696,"Kindly tell me how to change my elective subject, it is very urgent",Courses,1,High
+5697,"Kindly tell me how to apply for a scholarship, I have 6 days left",Scholarship,4,Medium
+5698,"Need help to issue a book from the library, my exam is in 2 days",Library,2,High
+5699,"How can I submit my admission documents, my exam is tomorrow",Admissions,1,High
+5700,"I want to get my fee receipt, the deadline is in 4 days",Fees,7,Medium
+5701,"Need help to submit my admission documents, I have 6 days left",Admissions,3,Medium
+5702,"Kindly tell me how to issue a book from the library, the last date is in 5 days",Library,4,Medium
+5703,"Need help to know the fee due date, the deadline is today",Fees,0,High
+5704,"Please help me check my scholarship status, my deadline is this week",Scholarship,3,Medium
+5705,"Kindly tell me how to renew my library book, I have 6 days left",Library,5,Medium
+5706,"I want to apply for re-evaluation, my exam is in 2 days",Examination,1,High
+5707,"How can I get my ID card, my deadline is this week",Admissions,6,Medium
+5708,"Need help to renew my library book, my deadline is this week",Library,3,Medium
+5709,"Kindly tell me how to submit my admission documents, my exam is in 2 days",Admissions,1,High
+5710,"Need help to change my elective subject, the deadline is next month",Courses,8,Low
+5711,"How can I reset my portal password, it is very urgent",IT Support,2,High
+5712,"Please help me check my scholarship status, I have plenty of time",Scholarship,20,Low
+5713,"How can I submit my admission documents, the deadline is today",Admissions,2,High
+5714,"How can I get my ID card, I have 6 days left",Admissions,7,Medium
+5715,"I want to check my scholarship status, it is very urgent",Scholarship,1,High
+5716,"Please help me issue a book from the library, it is very urgent",Library,2,High
+5717,"Need help to get my hall ticket, the last date is tomorrow",Examination,1,High
+5718,"Please help me get a bonafide certificate, the last date is in 5 days",Admissions,3,Medium
+5719,"I want to check my exam result, the deadline is next month",Examination,12,Low
+5720,"Please help me check my exam result, the deadline is today",Examination,2,High
+5721,"Need help to report a hostel room problem, my deadline is this week",Hostel,4,Medium
+5722,"I want to issue a book from the library, I have 6 days left",Library,6,Medium
+5723,"Kindly tell me how to renew my library book, it is very urgent",Library,0,High
+5724,"Need help to apply for a hostel room, the deadline is in 4 days",Hostel,4,Medium
+5725,"How can I fix my exam form error, my exam is in 2 days",Examination,0,High
+5726,"Kindly tell me how to report a hostel room problem, the last date is tomorrow",Hostel,0,High
+5727,"Need help to get my fee receipt, it is very urgent",Fees,2,High
+5728,"Kindly tell me how to connect to campus Wi-Fi, just asking for information",IT Support,31,Low
+5729,"How can I connect to campus Wi-Fi, the deadline is next month",IT Support,36,Low
+5730,"How can I get a bonafide certificate, my deadline is this week",Admissions,4,Medium
+5731,"Need help to reset my portal password, the last date is in 5 days",IT Support,5,Medium
+5732,"Kindly tell me how to issue a book from the library, just asking for information",Library,12,Low
+5733,"Kindly tell me how to renew my library book, no rush",Library,39,Low
+5734,"I want to know hostel gate timings, the last date is tomorrow",Hostel,1,High
+5735,"I want to submit my admission documents, my deadline is this week",Admissions,7,Medium
+5736,"How can I change my elective subject, I have 6 days left",Courses,6,Medium
+5737,"I want to report a hostel room problem, it is very urgent",Hostel,1,High
+5738,"How can I apply for a scholarship, just asking for information",Scholarship,19,Low
+5739,"How can I know the fee due date, my exam is in 2 days",Fees,2,High
+5740,"How can I get my college email ID, no rush",IT Support,9,Low
+5741,"Kindly tell me how to renew my library book, my exam is tomorrow",Library,2,High
+5742,"How can I know hostel gate timings, just asking for information",Hostel,12,Low
+5743,"Kindly tell me how to get my hall ticket, my deadline is this week",Examination,6,Medium
+5744,"Need help to check my exam result, just asking for information",Examination,41,Low
+5745,"Kindly tell me how to get my course syllabus, the last date is tomorrow",Courses,0,High
+5746,"How can I change my elective subject, my deadline is this week",Courses,7,Medium
+5747,"I want to get my college email ID, the deadline is in 4 days",IT Support,7,Medium
+5748,"Kindly tell me how to apply for a scholarship, I have 6 days left",Scholarship,4,Medium
+5749,"Please help me get my ID card, the last date is in 20 days",Admissions,15,Low
+5750,"Need help to pay my semester fees, the last date is tomorrow",Fees,0,High
+5751,"Kindly tell me how to access e-journals, the deadline is next month",Library,37,Low
+5752,"How can I fix a failed fee payment, the last date is tomorrow",Fees,1,High
+5753,"Need help to check my scholarship status, the deadline is in 4 days",Scholarship,7,Medium
+5754,"How can I renew my library book, the deadline is today",Library,2,High
+5755,"Need help to get my course syllabus, the deadline is next month",Courses,36,Low
+5756,"I want to change my elective subject, the last date is in 20 days",Courses,29,Low
+5757,"How can I access e-journals, the deadline is in 4 days",Library,6,Medium
+5758,"Please help me fix a failed fee payment, it is very urgent",Fees,0,High
+5759,"Please help me fix my exam form error, the last date is in 5 days",Examination,6,Medium
+5760,"Need help to check my scholarship status, the last date is in 20 days",Scholarship,13,Low
+5761,"Please help me issue a book from the library, my exam is tomorrow",Library,2,High
+5762,"Please help me log in to the student portal, the last date is in 20 days",IT Support,38,Low
+5763,"Kindly tell me how to check my exam result, my deadline is this week",Examination,7,Medium
+5764,"Please help me get my course syllabus, the last date is tomorrow",Courses,1,High
+5765,"Kindly tell me how to apply for a scholarship, the last date is tomorrow",Scholarship,2,High
+5766,"Please help me get my course syllabus, no rush",Courses,15,Low
+5767,"I want to know the fee due date, I have plenty of time",Fees,45,Low
+5768,"Please help me submit my admission documents, the deadline is today",Admissions,2,High
+5769,"I want to get my fee receipt, the deadline is in 4 days",Fees,6,Medium
+5770,"I want to get my hall ticket, just asking for information",Examination,25,Low
+5771,"Kindly tell me how to check my exam result, the deadline is in 4 days",Examination,6,Medium
+5772,"I want to connect to campus Wi-Fi, the deadline is today",IT Support,0,High
+5773,"Please help me renew my library book, I have 6 days left",Library,4,Medium
+5774,"How can I reset my portal password, I have 6 days left",IT Support,6,Medium
+5775,"Kindly tell me how to know the fee due date, the last date is tomorrow",Fees,2,High
+5776,"I want to fix my exam form error, it is very urgent",Examination,1,High
+5777,"Please help me get my course syllabus, the last date is tomorrow",Courses,2,High
+5778,"Need help to access e-journals, the deadline is in 4 days",Library,7,Medium
+5779,"Need help to see the exam date sheet, the last date is in 5 days",Examination,5,Medium
+5780,"How can I apply for a hostel room, the deadline is next month",Hostel,25,Low
+5781,"Need help to fix my exam form error, the deadline is today",Examination,1,High
+5782,"Kindly tell me how to get my course syllabus, the last date is tomorrow",Courses,1,High
+5783,"Kindly tell me how to pay my semester fees, my exam is tomorrow",Fees,2,High
+5784,"Please help me apply for a scholarship, it is very urgent",Scholarship,2,High
+5785,"Kindly tell me how to get my ID card, the last date is tomorrow",Admissions,2,High
+5786,"Please help me reset my portal password, the last date is in 5 days",IT Support,6,Medium
+5787,"Need help to report a hostel room problem, the last date is in 5 days",Hostel,3,Medium
+5788,"I want to know hostel gate timings, I have 6 days left",Hostel,4,Medium
+5789,"How can I get my ID card, the deadline is today",Admissions,0,High
+5790,"Please help me renew my library book, my deadline is this week",Library,6,Medium
+5791,"Need help to access e-journals, my exam is tomorrow",Library,1,High
+5792,"Need help to access e-journals, my exam is in 2 days",Library,1,High
+5793,"How can I see the exam date sheet, the last date is in 5 days",Examination,6,Medium
+5794,"How can I apply for a scholarship, it is very urgent",Scholarship,2,High
+5795,"Please help me apply for re-evaluation, the deadline is in 4 days",Examination,3,Medium
+5796,"How can I submit my admission documents, my deadline is this week",Admissions,3,Medium
+5797,"I want to get my fee receipt, just asking for information",Fees,14,Low
+5798,"I want to apply for a scholarship, the last date is in 20 days",Scholarship,10,Low
+5799,"I want to check my scholarship status, the last date is tomorrow",Scholarship,2,High
+5800,"Need help to log in to the student portal, just asking for information",IT Support,20,Low
+5801,"I want to get a bonafide certificate, it is very urgent",Admissions,0,High
+5802,"How can I upload my assignment on LMS, the last date is in 20 days",IT Support,28,Low
+5803,"Kindly tell me how to change my elective subject, my deadline is this week",Courses,6,Medium
+5804,"Kindly tell me how to fix my exam form error, the last date is tomorrow",Examination,2,High
+5805,"I want to get my fee receipt, no rush",Fees,15,Low
+5806,"I want to fix a failed fee payment, my exam is tomorrow",Fees,1,High
+5807,"Kindly tell me how to download my admit card, just asking for information",Examination,31,Low
+5808,"I want to access e-journals, the deadline is in 4 days",Library,4,Medium
+5809,"How can I pay my semester fees, my exam is tomorrow",Fees,2,High
+5810,"Kindly tell me how to get my course syllabus, it is very urgent",Courses,0,High
+5811,"Need help to know hostel gate timings, the deadline is in 4 days",Hostel,7,Medium
+5812,"Please help me get a bonafide certificate, the last date is in 20 days",Admissions,12,Low
+5813,"Need help to change my elective subject, I have plenty of time",Courses,15,Low
+5814,"I want to get my course syllabus, the last date is tomorrow",Courses,1,High
+5815,"Kindly tell me how to upload my assignment on LMS, my exam is tomorrow",IT Support,2,High
+5816,"I want to download my admit card, it is very urgent",Examination,0,High
+5817,"Please help me get my fee receipt, my deadline is this week",Fees,6,Medium
+5818,"Please help me apply for a hostel room, my deadline is this week",Hostel,3,Medium
+5819,"Please help me report a hostel room problem, the last date is in 5 days",Hostel,6,Medium
+5820,"Please help me pay my semester fees, I have 6 days left",Fees,4,Medium
+5821,"Need help to access e-journals, the deadline is in 4 days",Library,3,Medium
+5822,"Kindly tell me how to apply for a scholarship, the deadline is today",Scholarship,2,High
+5823,"How can I get my course syllabus, I have 6 days left",Courses,6,Medium
+5824,"Need help to get my course syllabus, my exam is tomorrow",Courses,0,High
+5825,"Please help me submit my admission documents, the last date is in 5 days",Admissions,3,Medium
+5826,"Kindly tell me how to access e-journals, the last date is in 5 days",Library,3,Medium
+5827,"I want to change my elective subject, I have 6 days left",Courses,4,Medium
+5828,"Kindly tell me how to know the fee due date, the deadline is in 4 days",Fees,3,Medium
+5829,"Kindly tell me how to access e-journals, my deadline is this week",Library,6,Medium
+5830,"Kindly tell me how to get a bonafide certificate, my exam is tomorrow",Admissions,2,High
+5831,"Need help to get my fee receipt, I have plenty of time",Fees,20,Low
+5832,"Please help me apply for a scholarship, the deadline is next month",Scholarship,10,Low
+5833,"Kindly tell me how to renew my library book, no rush",Library,22,Low
+5834,"Kindly tell me how to get a bonafide certificate, my exam is in 2 days",Admissions,0,High
+5835,"I want to pay my semester fees, the deadline is today",Fees,1,High
+5836,"Need help to change my elective subject, my exam is tomorrow",Courses,1,High
+5837,"I want to get my course syllabus, the last date is in 20 days",Courses,43,Low
+5838,"I want to know hostel gate timings, I have plenty of time",Hostel,33,Low
+5839,"How can I get my course syllabus, my deadline is this week",Courses,6,Medium
+5840,"How can I access e-journals, I have 6 days left",Library,7,Medium
+5841,"Please help me know hostel gate timings, the deadline is next month",Hostel,30,Low
+5842,"Please help me fix a failed fee payment, the last date is in 5 days",Fees,5,Medium
+5843,"How can I access e-journals, the last date is in 20 days",Library,28,Low
+5844,"I want to get my ID card, I have plenty of time",Admissions,34,Low
+5845,"I want to reset my portal password, just asking for information",IT Support,34,Low
+5846,"Need help to submit my admission documents, the deadline is today",Admissions,1,High
+5847,"I want to get a bonafide certificate, my exam is tomorrow",Admissions,1,High
+5848,"Please help me connect to campus Wi-Fi, my deadline is this week",IT Support,4,Medium
+5849,"Need help to apply for a hostel room, the last date is in 20 days",Hostel,39,Low
+5850,"Kindly tell me how to fix my exam form error, I have plenty of time",Examination,19,Low
+5851,"Kindly tell me how to log in to the student portal, my exam is tomorrow",IT Support,1,High
+5852,"Please help me renew my library book, I have 6 days left",Library,6,Medium
+5853,"Please help me reset my portal password, the deadline is in 4 days",IT Support,5,Medium
+5854,"Please help me change my elective subject, it is very urgent",Courses,1,High
+5855,"Please help me issue a book from the library, just asking for information",Library,40,Low
+5856,"How can I issue a book from the library, I have 6 days left",Library,5,Medium
+5857,"How can I get my hall ticket, the last date is in 20 days",Examination,14,Low
+5858,"How can I access e-journals, I have 6 days left",Library,7,Medium
+5859,"I want to download my admit card, the deadline is today",Examination,2,High
+5860,"How can I upload my assignment on LMS, just asking for information",IT Support,13,Low
+5861,"Need help to fix a failed fee payment, it is very urgent",Fees,1,High
+5862,"Kindly tell me how to change my elective subject, it is very urgent",Courses,1,High
+5863,"I want to change my elective subject, no rush",Courses,16,Low
+5864,"Please help me access e-journals, the deadline is next month",Library,39,Low
+5865,"Need help to renew my library book, my exam is tomorrow",Library,0,High
+5866,"Need help to submit my admission documents, the last date is tomorrow",Admissions,0,High
+5867,"Please help me download my admit card, no rush",Examination,26,Low
+5868,"Kindly tell me how to log in to the student portal, the deadline is in 4 days",IT Support,5,Medium
+5869,"Please help me apply for a hostel room, I have plenty of time",Hostel,38,Low
+5870,"How can I access e-journals, my deadline is this week",Library,6,Medium
+5871,"Kindly tell me how to get my course syllabus, it is very urgent",Courses,2,High
+5872,"I want to get my course syllabus, the deadline is in 4 days",Courses,6,Medium
+5873,"Please help me log in to the student portal, the last date is in 5 days",IT Support,6,Medium
+5874,"Please help me access e-journals, it is very urgent",Library,2,High
+5875,"Please help me change my elective subject, the deadline is in 4 days",Courses,7,Medium
+5876,"I want to check my exam result, the last date is tomorrow",Examination,2,High
+5877,"Need help to get a bonafide certificate, the last date is in 5 days",Admissions,7,Medium
+5878,"Need help to renew my library book, no rush",Library,43,Low
+5879,"How can I check my scholarship status, I have plenty of time",Scholarship,10,Low
+5880,"Kindly tell me how to get my ID card, I have 6 days left",Admissions,7,Medium
+5881,"Need help to access e-journals, I have plenty of time",Library,28,Low
+5882,"Please help me pay my semester fees, my deadline is this week",Fees,5,Medium
+5883,"I want to know the fee due date, the deadline is next month",Fees,44,Low
+5884,"Need help to apply for re-evaluation, just asking for information",Examination,28,Low
+5885,"I want to get my hall ticket, no rush",Examination,37,Low
+5886,"How can I renew my library book, I have plenty of time",Library,25,Low
+5887,"Please help me get my ID card, the deadline is next month",Admissions,30,Low
+5888,"Kindly tell me how to get my ID card, it is very urgent",Admissions,1,High
+5889,"Kindly tell me how to check my scholarship status, the last date is in 20 days",Scholarship,40,Low
+5890,"Need help to get my fee receipt, my exam is tomorrow",Fees,0,High
+5891,"Need help to pay my semester fees, the last date is tomorrow",Fees,2,High
+5892,"How can I reset my portal password, my exam is in 2 days",IT Support,1,High
+5893,"I want to get my course syllabus, the last date is in 5 days",Courses,7,Medium
+5894,"Need help to reset my portal password, the deadline is in 4 days",IT Support,7,Medium
+5895,"Please help me change my elective subject, I have 6 days left",Courses,5,Medium
+5896,"How can I apply for a scholarship, the deadline is in 4 days",Scholarship,5,Medium
+5897,"How can I know hostel gate timings, the last date is in 5 days",Hostel,6,Medium
+5898,"Please help me download my admit card, the last date is in 5 days",Examination,6,Medium
+5899,"I want to issue a book from the library, I have 6 days left",Library,3,Medium
+5900,"Need help to issue a book from the library, the last date is tomorrow",Library,0,High
+5901,"Please help me check my scholarship status, the last date is in 5 days",Scholarship,7,Medium
+5902,"Need help to check my exam result, my exam is tomorrow",Examination,2,High
+5903,"I want to change my elective subject, my deadline is this week",Courses,7,Medium
+5904,"Please help me change my elective subject, no rush",Courses,15,Low
+5905,"Please help me download my admit card, my deadline is this week",Examination,5,Medium
+5906,"I want to issue a book from the library, the deadline is in 4 days",Library,5,Medium
+5907,"I want to get my college email ID, my exam is in 2 days",IT Support,0,High
+5908,"Please help me connect to campus Wi-Fi, the last date is tomorrow",IT Support,0,High
+5909,"Need help to get my course syllabus, the deadline is next month",Courses,17,Low
+5910,"Need help to get my course syllabus, I have plenty of time",Courses,29,Low
+5911,"How can I fix a failed fee payment, I have plenty of time",Fees,17,Low
+5912,"How can I upload my assignment on LMS, my exam is tomorrow",IT Support,2,High
+5913,"Need help to fix my exam form error, my exam is tomorrow",Examination,1,High
+5914,"How can I log in to the student portal, my deadline is this week",IT Support,7,Medium
+5915,"I want to check my exam result, my exam is tomorrow",Examination,0,High
+5916,"I want to apply for a hostel room, my deadline is this week",Hostel,6,Medium
+5917,"Need help to access e-journals, the deadline is next month",Library,16,Low
+5918,"Kindly tell me how to reset my portal password, I have 6 days left",IT Support,3,Medium
+5919,"Kindly tell me how to report a hostel room problem, my exam is tomorrow",Hostel,1,High
+5920,"Kindly tell me how to report a hostel room problem, the last date is tomorrow",Hostel,1,High
+5921,"I want to know the fee due date, it is very urgent",Fees,2,High
+5922,"How can I see the exam date sheet, I have 6 days left",Examination,7,Medium
+5923,"I want to get my fee receipt, it is very urgent",Fees,1,High
+5924,"I want to renew my library book, the deadline is today",Library,2,High
+5925,"How can I pay my semester fees, the last date is tomorrow",Fees,1,High
+5926,"I want to change my elective subject, I have plenty of time",Courses,36,Low
+5927,"Need help to report a hostel room problem, I have 6 days left",Hostel,4,Medium
+5928,"Kindly tell me how to get my course syllabus, I have 6 days left",Courses,5,Medium
+5929,"I want to check my scholarship status, no rush",Scholarship,23,Low
+5930,"How can I check my scholarship status, my exam is in 2 days",Scholarship,0,High
+5931,"Please help me apply for a scholarship, the deadline is in 4 days",Scholarship,7,Medium
+5932,"Need help to get my course syllabus, the deadline is in 4 days",Courses,4,Medium
+5933,"How can I access e-journals, just asking for information",Library,26,Low
+5934,"Need help to log in to the student portal, my exam is tomorrow",IT Support,1,High
+5935,"How can I fix a failed fee payment, the deadline is in 4 days",Fees,4,Medium
+5936,"I want to connect to campus Wi-Fi, I have plenty of time",IT Support,22,Low
+5937,"Please help me change my elective subject, just asking for information",Courses,17,Low
+5938,"I want to get a bonafide certificate, my exam is in 2 days",Admissions,2,High
+5939,"Please help me issue a book from the library, my deadline is this week",Library,3,Medium
+5940,"I want to submit my admission documents, it is very urgent",Admissions,2,High
+5941,"I want to access e-journals, the last date is in 20 days",Library,40,Low
+5942,"Please help me apply for a hostel room, the deadline is next month",Hostel,44,Low
+5943,"Kindly tell me how to renew my library book, I have 6 days left",Library,7,Medium
+5944,"Kindly tell me how to check my scholarship status, I have 6 days left",Scholarship,7,Medium
+5945,"Need help to get my ID card, I have plenty of time",Admissions,15,Low
+5946,"Need help to access e-journals, my deadline is this week",Library,5,Medium
+5947,"How can I get my college email ID, the last date is tomorrow",IT Support,0,High
+5948,"Need help to get my fee receipt, the deadline is today",Fees,1,High
+5949,"I want to apply for a scholarship, the last date is in 5 days",Scholarship,5,Medium
+5950,"How can I check my exam result, I have 6 days left",Examination,5,Medium
+5951,"How can I log in to the student portal, the last date is in 5 days",IT Support,4,Medium
+5952,"Kindly tell me how to check my exam result, the deadline is today",Examination,2,High
+5953,"Kindly tell me how to pay my semester fees, the deadline is next month",Fees,26,Low
+5954,"Need help to submit my admission documents, just asking for information",Admissions,16,Low
+5955,"Kindly tell me how to get my course syllabus, my deadline is this week",Courses,4,Medium
+5956,"Need help to renew my library book, my deadline is this week",Library,4,Medium
+5957,"Kindly tell me how to access e-journals, my exam is in 2 days",Library,2,High
+5958,"How can I access e-journals, I have plenty of time",Library,45,Low
+5959,"How can I submit my admission documents, my exam is in 2 days",Admissions,0,High
+5960,"Please help me get my course syllabus, the last date is tomorrow",Courses,0,High
+5961,"I want to know hostel gate timings, the deadline is in 4 days",Hostel,7,Medium
+5962,"Please help me renew my library book, the deadline is in 4 days",Library,5,Medium
+5963,"Kindly tell me how to reset my portal password, it is very urgent",IT Support,0,High
+5964,"Kindly tell me how to issue a book from the library, the last date is in 5 days",Library,4,Medium
+5965,"Need help to submit my admission documents, I have plenty of time",Admissions,21,Low
+5966,"Please help me change my elective subject, my exam is in 2 days",Courses,2,High
+5967,"How can I apply for a hostel room, I have 6 days left",Hostel,7,Medium
+5968,"Kindly tell me how to know the fee due date, the last date is in 5 days",Fees,7,Medium
+5969,"Kindly tell me how to know the fee due date, no rush",Fees,9,Low
+5970,"Need help to apply for re-evaluation, it is very urgent",Examination,0,High
+5971,"I want to log in to the student portal, it is very urgent",IT Support,2,High
+5972,"Need help to submit my admission documents, the last date is in 20 days",Admissions,28,Low
+5973,"Kindly tell me how to get my hall ticket, the last date is tomorrow",Examination,0,High
+5974,"Kindly tell me how to get my course syllabus, the deadline is in 4 days",Courses,5,Medium
+5975,"Kindly tell me how to get my hall ticket, it is very urgent",Examination,0,High
+5976,"How can I apply for re-evaluation, the last date is tomorrow",Examination,2,High
+5977,"How can I get my course syllabus, the last date is tomorrow",Courses,2,High
+5978,"Need help to issue a book from the library, the deadline is in 4 days",Library,7,Medium
+5979,"Kindly tell me how to get a bonafide certificate, I have 6 days left",Admissions,5,Medium
+5980,"I want to submit my admission documents, the last date is in 5 days",Admissions,7,Medium
+5981,"Please help me submit my admission documents, I have plenty of time",Admissions,36,Low
+5982,"Need help to check my scholarship status, my deadline is this week",Scholarship,6,Medium
+5983,"I want to know the fee due date, my exam is tomorrow",Fees,2,High
+5984,"I want to pay my semester fees, it is very urgent",Fees,2,High
+5985,"Please help me submit my admission documents, just asking for information",Admissions,24,Low
+5986,"Kindly tell me how to connect to campus Wi-Fi, I have 6 days left",IT Support,4,Medium
+5987,"Need help to access e-journals, my exam is in 2 days",Library,1,High
+5988,"Kindly tell me how to apply for a hostel room, just asking for information",Hostel,43,Low
+5989,"How can I get a bonafide certificate, the last date is in 5 days",Admissions,5,Medium
+5990,"Need help to apply for re-evaluation, my deadline is this week",Examination,6,Medium
+5991,"Kindly tell me how to apply for a hostel room, my deadline is this week",Hostel,7,Medium
+5992,"How can I get my course syllabus, the last date is in 5 days",Courses,6,Medium
+5993,"I want to fix a failed fee payment, my exam is in 2 days",Fees,0,High
+5994,"I want to get a bonafide certificate, I have plenty of time",Admissions,41,Low
+5995,"How can I renew my library book, my exam is in 2 days",Library,1,High
+5996,"Need help to apply for a hostel room, I have plenty of time",Hostel,45,Low
+5997,"Need help to submit my admission documents, the deadline is next month",Admissions,36,Low
+5998,"Please help me know the fee due date, no rush",Fees,16,Low
+5999,"Please help me know the fee due date, the last date is in 5 days",Fees,6,Medium
+6000,"Please help me get my ID card, the deadline is today",Admissions,0,High
